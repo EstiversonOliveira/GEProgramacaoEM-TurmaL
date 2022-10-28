@@ -65,6 +65,10 @@ font-size: 40px;
  	font-size: 40px;
  }
  
- ul li::marker {
- 	content: "🥙";
- }
+nav li {
+	list-style: none;
+}
+
+#imagemlogo {
+	width: 400px;
+}
